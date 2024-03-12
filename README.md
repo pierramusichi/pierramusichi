@@ -7,7 +7,7 @@ Hi, I'm Pierra.
 ### Contact Me 
 
 <a href="mailto:musichipierra@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="musichi pierra | Gmail" width="35px"/></a>
-<a href="https://www.linkedin.com/in/pierramusichi/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="musichi pierra | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/pierra-musichi/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="musichi pierra | LinkedIn" width="35px"/></a>
 </br>
 </br>
 </br>
