@@ -13,7 +13,10 @@ Hi, I'm Pierra.
 </br>
 </br>
 
-![Pierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierramusichi&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pierramusichi&show_icons=true&theme=github_dark" alt="Pierra's GitHub stats" />
+</p>
+
 
 <!-- will insert header picture or sth of the sort->
 
