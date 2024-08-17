@@ -1,13 +1,14 @@
 ## Pierra Musichi | *(she/her)*
 Hi, I'm Pierra. 
-- Keen interest in **Full-Stack WebDev**, **Machine Learning** and **Cloud Computing**
-- Currently learning: Python (for Machine Learning) and C++ for IoT projects.
-- Improving my proficiency in HTML5/CSS3, JS.
+- Keen interest in **Data Science**, **Machine Learning** and **Quantitative Finance**
+- Currently skills: Python, R, Keras, Pandas, NumPy.
+- Improving my proficiency in Scikit-Learn, TensorFlow and the Bloomberg Terminal
+- My expertise lies in harnessing the power of data to drive insights, optimize decision-making, and develop innovative solutions.
 
 ### Contact Me 
 
-<a href="mailto:musichipierra@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="musichi pierra | Gmail" width="35px"/></a>
-<a href="https://www.linkedin.com/in/pierra-musichi/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="musichi pierra | LinkedIn" width="35px"/></a>
+<a href="mailto:musichipierra@gmail.com"><img align="center" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="musichi pierra | Gmail" width="35px"/></a>
+<a href="https://www.linkedin.com/in/pierra-musichi/"><img align="center" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="musichi pierra | LinkedIn" width="35px"/></a>
 </br>
 </br>
 </br>
